@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Chatweb </title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Chatweb</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-	<?php include'header.php'; ?>
+
+	<?php include'header.php';?>
 
 	<div class="main-content">
+
 		<div class="left-container">
 			<div class="container-left-list">
 				<a href="#" style="background-color: #04AA6D; color: white; margin-top: 5px;">Home</a>
@@ -16,6 +18,11 @@
 				<a href="#">About</a>
 			</div>
 		</div>
+
+		<div class="chat-container">
+			test testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest testtest test
+		</div>
+
 	</div>
 
 	<div class="footer">

@@ -13,9 +13,7 @@ html{
 	font-weight: bold;
 	color: #04AA6D;
 }
-.header-list{
-	
-}
+
 .header-list ul, li{
 	display: flex;
 	justify-content: center;
@@ -47,4 +45,10 @@ html{
 }
 .container-left-list a:hover{
 	background-color: #04AA6D;
+}
+
+.chat-container{
+	overflow: auto;
+	min-height: 500px;
+	min-width: 500px;
 }
